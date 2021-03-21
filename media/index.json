@@ -2,14 +2,29 @@
   "version": 2,
   "media": {
     "chime": {
-      "mtime": "2021-03-21T15:22:39.000Z",
-      "birthtime": "2021-03-21T15:22:59.400Z",
+      "mtime": "2021-03-21T15:23:11.000Z",
+      "birthtime": "2021-03-21T15:23:35.074Z",
       "url": "chime.wav"
     },
     "whatudoin": {
-      "mtime": "2021-03-21T15:22:39.000Z",
-      "birthtime": "2021-03-21T15:22:59.400Z",
+      "mtime": "2021-03-21T15:23:11.000Z",
+      "birthtime": "2021-03-21T15:23:35.074Z",
       "url": "whatudoin.ogg"
+    },
+    "zerowhatami": {
+      "mtime": "2021-03-21T15:23:11.000Z",
+      "birthtime": "2021-03-21T15:23:35.074Z",
+      "url": "zerowhatami.mp4"
+    },
+    "zerowhatamij": {
+      "mtime": "2021-03-21T15:23:11.000Z",
+      "birthtime": "2021-03-21T15:23:35.094Z",
+      "url": "zerowhatamij.mp4"
+    },
+    "zerowhatamituned": {
+      "mtime": "2021-03-21T15:23:11.000Z",
+      "birthtime": "2021-03-21T15:23:35.118Z",
+      "url": "zerowhatamituned.mp4"
     }
   }
 }
