@@ -1,49 +1,24 @@
 {
   "version": 2,
   "media": {
-    "chime": {
-      "mtime": "2021-03-21T15:30:48.000Z",
-      "birthtime": "2021-03-21T15:31:07.918Z",
-      "url": "chime.wav"
-    },
     "whatudoin": {
-      "mtime": "2021-03-21T15:30:48.000Z",
-      "birthtime": "2021-03-21T15:31:07.918Z",
+      "mtime": "2021-03-21T15:34:21.000Z",
+      "birthtime": "2021-03-21T15:34:41.811Z",
       "url": "whatudoin.ogg"
     },
-    "zero": {
-      "mtime": "2021-03-21T15:30:48.000Z",
-      "birthtime": "2021-03-21T15:31:07.918Z",
-      "url": "zero/.gitkeep"
-    },
-    "zerozerowhatami": {
-      "mtime": "2021-03-21T15:30:48.000Z",
-      "birthtime": "2021-03-21T15:31:07.918Z",
-      "url": "zero/zerowhatami.mp4"
-    },
-    "zerozerowhatamij": {
-      "mtime": "2021-03-21T15:30:48.000Z",
-      "birthtime": "2021-03-21T15:31:07.942Z",
-      "url": "zero/zerowhatamij.mp4"
-    },
-    "zerozerowhatamituned": {
-      "mtime": "2021-03-21T15:30:48.000Z",
-      "birthtime": "2021-03-21T15:31:07.962Z",
-      "url": "zero/zerowhatamituned.mp4"
-    },
     "zerowhatami": {
-      "mtime": "2021-03-21T15:30:48.000Z",
-      "birthtime": "2021-03-21T15:31:07.994Z",
+      "mtime": "2021-03-21T15:34:21.000Z",
+      "birthtime": "2021-03-21T15:34:41.811Z",
       "url": "zerowhatami.mp4"
     },
     "zerowhatamij": {
-      "mtime": "2021-03-21T15:30:48.000Z",
-      "birthtime": "2021-03-21T15:31:08.010Z",
+      "mtime": "2021-03-21T15:34:21.000Z",
+      "birthtime": "2021-03-21T15:34:41.835Z",
       "url": "zerowhatamij.mp4"
     },
     "zerowhatamituned": {
-      "mtime": "2021-03-21T15:30:48.000Z",
-      "birthtime": "2021-03-21T15:31:08.034Z",
+      "mtime": "2021-03-21T15:34:21.000Z",
+      "birthtime": "2021-03-21T15:34:41.855Z",
       "url": "zerowhatamituned.mp4"
     }
   }
