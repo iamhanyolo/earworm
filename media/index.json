@@ -2,28 +2,23 @@
   "version": 2,
   "media": {
     "chime": {
-      "mtime": "2021-03-21T15:25:02.000Z",
-      "birthtime": "2021-03-21T15:25:24.782Z",
+      "mtime": "2021-03-21T15:25:06.000Z",
+      "birthtime": "2021-03-21T15:25:31.951Z",
       "url": "chime.wav"
     },
     "whatudoin": {
-      "mtime": "2021-03-21T15:25:02.000Z",
-      "birthtime": "2021-03-21T15:25:24.786Z",
+      "mtime": "2021-03-21T15:25:06.000Z",
+      "birthtime": "2021-03-21T15:25:31.951Z",
       "url": "whatudoin.ogg"
     },
     "zero": {
-      "mtime": "2021-03-21T15:25:02.000Z",
-      "birthtime": "2021-03-21T15:25:24.786Z",
+      "mtime": "2021-03-21T15:25:06.000Z",
+      "birthtime": "2021-03-21T15:25:31.951Z",
       "url": "zero/.gitkeep"
     },
-    "zerowhatamij": {
-      "mtime": "2021-03-21T15:25:02.000Z",
-      "birthtime": "2021-03-21T15:25:24.786Z",
-      "url": "zerowhatamij.mp4"
-    },
     "zerowhatamituned": {
-      "mtime": "2021-03-21T15:25:02.000Z",
-      "birthtime": "2021-03-21T15:25:24.806Z",
+      "mtime": "2021-03-21T15:25:06.000Z",
+      "birthtime": "2021-03-21T15:25:31.951Z",
       "url": "zerowhatamituned.mp4"
     }
   }
