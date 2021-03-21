@@ -2,14 +2,19 @@
   "version": 2,
   "media": {
     "chime": {
-      "mtime": "2021-03-21T14:35:16.000Z",
-      "birthtime": "2021-03-21T14:35:37.861Z",
+      "mtime": "2021-03-21T15:22:28.000Z",
+      "birthtime": "2021-03-21T15:22:47.697Z",
       "url": "chime.wav"
     },
     "whatudoin": {
-      "mtime": "2021-03-21T14:35:16.000Z",
-      "birthtime": "2021-03-21T14:35:37.861Z",
+      "mtime": "2021-03-21T15:22:28.000Z",
+      "birthtime": "2021-03-21T15:22:47.697Z",
       "url": "whatudoin.ogg"
+    },
+    "zero": {
+      "mtime": "2021-03-21T15:22:28.000Z",
+      "birthtime": "2021-03-21T15:22:47.697Z",
+      "url": "zero"
     }
   }
 }
